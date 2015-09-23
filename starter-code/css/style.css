@@ -1,0 +1,60 @@
+ header
+ {
+     text-align: center;
+     font-size: 30px;
+     color: rgb(0, 0, 102);
+     text-shadow: 2px 2px rgb(51, 204, 255);
+     margin: 20px 0px 0px 0px;
+ }
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+  margin: -20px 0px 0px 0px;
+  text-shadow: -1px -1px rgb(51, 204, 255);
+}
+
+#content
+{	
+    margin: 0px 50px 50px 50px;
+    font-size: 20px; 
+    font-family: Georgia, serif; 
+    text-align: justify;
+    line-height: 150%;
+}	
+
+
+a {
+  font-size: 20px;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  margin: 10px 50px 0px 0px;
+
+} 
+
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      text-decoration: underline;
+}
+.images {
+  width: 500px;
+  height: 500px;
+
+}
+
+img {
+  text-align: center;
+
+}
+ @media (max-width: 300px){
+    h1 
+    {	
+    font-size: 50px;
+    padding: 5px;
+
+	}
+}
