@@ -16,12 +16,13 @@ h2 {
 
 #content
 {	
-    margin: 0px 100px 50px 50px;
+    margin: 0px 50px 50px 50px;
     font-size: 20px; 
     font-family: Georgia, serif; 
     text-align: justify;
     line-height: 150%;
 }	
+
 
 a {
   font-size: 20px;
@@ -30,6 +31,8 @@ a {
 
 ul{
   text-align: center;
+  margin: 10px 50px 0px 0px;
+
 } 
 
 li {
