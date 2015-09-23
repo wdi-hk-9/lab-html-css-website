@@ -1,0 +1,21 @@
+#top-menu {
+	float: left;
+	position: relative;
+}
+#top-menu ul {
+	float: center;
+	margin: 5px;
+}
+#top-menu li {
+	float: left;
+	list-style: none;
+	margin: 5px;
+}
+
+
+#container {
+
+	float: center;
+	position: center;
+
+}
