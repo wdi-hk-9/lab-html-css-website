@@ -1,0 +1,67 @@
+body{
+	text-align:center;
+	font-family:Arial;
+
+}
+h1{
+	color:red;
+}
+p{
+	margin:0px auto;
+	text-align:left;
+	width:50%;
+}
+.space > p{
+	width:auto;ƒ
+	padding-bottom:20px;
+}
+h3{
+	color:orangeRed;
+}
+section{
+	width:80%;
+	margin:0 auto;
+	padding-bottom:20px;
+}
+section.about{
+	width:50%;
+}
+h3 a{
+	color:black;
+}
+ul.portfolio{
+	list-style-type:none;
+	padding:0;
+	margin:0;
+}
+img{
+	clear:right;
+	float:right;
+	padding:0px 10px;
+}
+article.space{
+	padding:20px 20px 100px 20px;
+}
+nav a{
+	color:black;
+}
+img.portfolio-img{
+	float:none;
+}
+h4{
+	text-align:left;
+}
+ul li{
+	text-align:left;
+}
+ul.portfolio > li{
+	padding-bottom:70px;
+	text-align:center;
+}
+ul.education{
+	margin:0 auto;
+	width:50%;
+}
+li > h3,h4{
+	display:inline;
+}
