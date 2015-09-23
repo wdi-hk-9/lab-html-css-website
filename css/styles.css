@@ -1,0 +1,55 @@
+body {
+	font: sans-serif;
+	font-size: 12px;
+	line-height: 1.5;
+	margin: 30px;
+	border-bottom: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	padding: 50px;
+	background: white;
+}
+
+a {
+	font-weight: bold;
+	color: black;
+}
+
+strong {
+	color: black;
+	font-style: italic;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0;
+}
+
+nav {
+	text-align: center;
+}
+
+hr {
+	border: none;
+	border: 1px solid black;
+}
+
+img {
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	padding: 5px;
+	text-align: center;
+}
+
+p {
+	height: 200px;
+}
+
+.startup {	
+	float: none;
+	height: 350px;
+	width: auto;
+}
