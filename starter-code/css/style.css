@@ -40,7 +40,11 @@ li {
       padding: 0px 10px 0px 10px;
       text-decoration: underline;
 }
+.images {
+  width: 500px;
+  height: 500px;
 
+}
  @media (max-width: 300px){
     h1 
     {	
