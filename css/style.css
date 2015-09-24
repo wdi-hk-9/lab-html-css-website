@@ -1,0 +1,31 @@
+
+body {
+	background: #E0ECF8;
+}
+
+h1 {
+	background: green;
+}
+p {
+  color: orange;
+}
+
+div {
+  width: 500px; height: 500px; border: 3px solid blue;
+}
+
+.fer {
+	color: yellow;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.redFont {
+	color: red;
+}
+
+#div1 {
+	font-weight: bold; 
+}
