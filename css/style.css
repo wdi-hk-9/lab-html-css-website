@@ -1,0 +1,51 @@
+div {
+	text-align: center;
+	width: auto;
+    padding: 20px;
+    border-top: 4px solid black;
+    border-bottom: 2px solid black;
+    margin: 25px;
+}
+h1 {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+p {
+	font-size: 16px;
+	font: italic;
+}
+
+ul li {
+	font-size: 16px;
+	display: inline-block;
+	padding: 10px;
+}
+
+img {
+    width:350px; /* you can use % */
+    height: auto;
+    margin: 10px 150px 10px 10px;
+    border-color: black;
+    border-radius: 50px;
+    border-width: 3px; 
+    float: right;
+}
+
+.text {
+	clear: left;
+	margin: 10px 10px 10px 150px;
+}
+
+.footer {
+	clear: both;
+        
+}
